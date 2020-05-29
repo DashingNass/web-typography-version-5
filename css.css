@@ -5603,7 +5603,9 @@ animation-delay: 15s;
 .sound10{
 /*background: url(./images/baseline-versie2.jpg);*/
 background: url(http://imgsrc.hubblesite.org/hu/db/images/hs-2007-16-a-xlarge_web.jpg);
-background-repeat:no-repeat;
+background-position: center;
+    background-repeat:no-repeat;
+    border-image-source: 4;
 background-size:cover;
     background-attachment: fixed;
 animation:Test 10s ease;
