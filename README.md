@@ -132,21 +132,21 @@ In dit fragment heb ik gebruik gemaakt van de lettertypes `Brenner Slab Italic` 
 De laatste scène van het tweede fragment, maak ik gebruik van de lettertypes `Brenner Sans Condensed` in verschillende font weights.  Echter staat deze tekst gecentreerd in beeld om hier de meeste aandacht op te bevestigen en weer het idee van een fontein te weergeven. <br/>
 ![image](https://user-images.githubusercontent.com/45563624/83216039-9f546380-a168-11ea-8a3c-af844bd01dd4.png)
 
-# Audio styling
+# Audio styling :speaker:
 De audio styling was het meest lastige om te doen. Omdat het product voor een dove jonge vrouw wordt gemaakt is het vrijwel lastig om te bedenken hoe ik het beste de geluiden kan overbrengen.
 
 
-### Thrilling Music (Spannende muziek)
+### Thrilling Music (Spannende muziek) :ghost:
 Het eerste geluid die afgaat in het fragment heb ik vormgegeven door de achtergrond te laten ‘blinken’ hierbij veranderd de opacity van licht naar donker, zodat er flitsen ontstaan. 
 
-### Alarm 
+### Alarm :bangbang:
 Het eerste alarm die wordt afgespeeld heb ik voorzien van een border met een blurry effect om de iframe heen om dus zodanig aan te tonen dat er een luid alarm afgaat. 
 
-### Buzz-er (Low quality)
+### Buzz-er (Low quality) :no_bell:
 Als het tweede alarm die afgaat in de film wordt het beeld snel uitvergroot en keer direct terug naar zijn originele positie. De keuze die ik hiervoor gemaakt heb is omdat een buzz of een buzzer-sound namelijk een sneller interval heeft qua timing.
 Daarna schudt het beeld een heen en weer.
 
-### High buzz sound
+### High buzz sound :bell:
 Bij het afspelen van een hoge frequentie schudt het beeld nog sneller heen en weer om het beeld te verstoren.
 
 # Additional edits
@@ -202,6 +202,8 @@ Maar als designer is het mijn taak om een de sfeer en emotie over te brengen naa
 ![screenshot 1](https://user-images.githubusercontent.com/45563624/83216793-67e6b680-a16a-11ea-8180-d697349f1638.png)
 YES SIR I AM FINISHED!
 
+URL naar de video:
+[https://dashingnass.github.io/web-typography-version-5/]
 
 
 #### Bijlage 
