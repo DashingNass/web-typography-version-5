@@ -19,9 +19,11 @@ Aan de hand van een kort en krachtig gesprek met Marie kwam het erop neer dat ze
  <br/>
  
 # Hoe ben ik begonnen?
-Om het voor mezelf gemakkelijker te maken heb ik eerst het benodigde mapje gedownload met de captions erin, daarna heb ik online gekeken op het internet als ik een script en/-of screenplay kon vinden van de film zodat ik precies kon zien welke acteur wat zei. En tot mijn verbazing zag ik dat voice 4 die in de template stond dat er helemaal geen vierde stem gebruikt wordt. Het gaat om de volgende stukjes code in de template die foutief zijn aangewezen:
+Om het voor mezelf gemakkelijker te maken heb ik eerst het benodigde mapje gedownload met de captions erin, daarna heb ik online gekeken op het internet als ik een script en/-of screenplay kon vinden van de film zodat ik precies kon zien welke acteur wat zei. En tot mijn verbazing zag ik dat voice 4 die in de template stond dat er helemaal geen vierde stem gebruikt wordt. Het gaat om de volgende stukjes code in de template die foutief zijn aangewezen.
+<br/> Of dit is bewust toegepast door de docenten om studenten scherp te houden :smirk:
 
 [Screenplay Blade Runner 2049](https://drive.google.com/file/d/1M7GL_cNxpUizhLjpP9vs8LYzRe6lH-Il/view)
+
 
 ```html
 <p class="voice4">We're done.</p>
