@@ -62,7 +62,7 @@ De Ready tekst staat in `Brenner Sans Condensed Italic` en tekst schuift in het 
 
 
 ### Scene 2: Officer K’s voice
-[Lees meer over Officer K in de bijlage]
+Lees meer over Officer K in de [bijlage](#bijlage)
 
 Officer K is een politieagent en dus een levend personage.
 In deze scene heb ik ervoor gekozen voor het `Brenner Sans Normal font.`
