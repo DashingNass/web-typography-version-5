@@ -19,6 +19,7 @@ Aan de hand van een kort en krachtig gesprek met Marie kwam het erop neer dat ze
 # Hoe ben ik begonnen?
 Om het voor mezelf gemakkelijker te maken heb ik eerst het benodigde mapje gedownload met de captions erin, daarna heb ik online gekeken op het internet als ik een script en/-of screenplay kon vinden van de film zodat ik precies kon zien welke acteur wat zei. En tot mijn verbazing zag ik dat voice 4 die in de template stond dat er helemaal geen vierde stem gebruikt wordt. Het gaat om de volgende stukjes code in de template die foutief zijn aangewezen:
 
+[Screenplay Blade Runner 2049](https://drive.google.com/file/d/1M7GL_cNxpUizhLjpP9vs8LYzRe6lH-Il/view)
 
 ```html
 <p class="voice4">We're done.</p>
@@ -202,9 +203,8 @@ Maar als designer is het mijn taak om een de sfeer en emotie over te brengen naa
 ![screenshot 1](https://user-images.githubusercontent.com/45563624/83216793-67e6b680-a16a-11ea-8180-d697349f1638.png)
 YES SIR I AM FINISHED!
 
-URL naar de video:
-[https://dashingnass.github.io/web-typography-version-5/]
-
+# URL van de video
+[URL naar de video](https://dashingnass.github.io/web-typography-version-5/)
 
 #### Bijlage 
 
@@ -213,15 +213,8 @@ Deze fictieve karakter uit de film wordt geportretteerd door Ryan Gosling.
 Dit karater staat ook bekend als ‘K’, ‘KD6-3.7’ en ‘Joe’
 Officer K is een replicante  Nexus 9 politieagent die werkzaam is voor de LAPD (Los Angeles Police Department), waarin hij (later) ontdekt dat het geheime kind was van de eerste Blade Runner held; Rick Deckard.
 
-
-Informatie over het gebruik van italic font:
-https://www.wnwdigital.co.uk/blog/techniques/italics-when-you-should-use-them/
-
-
-Info over Officer K:
-https://www.vox.com/culture/2017/10/9/16433088/blade-runner-2049-spoilers-review
-
-
-Informatie over de kleur turquoise: https://www.color-meanings.com/turquoise-color-meaning-the-color-turquoise/
-
-
+# Bronnen
+Deze bronnen zijn geraadpleegd op 29 mei 2020 om 03:35 AM
+[Gebruik over italic font](https://www.wnwdigital.co.uk/blog/techniques/italics-when-you-should-use-them/)
+[Info over Officer K](https://www.vox.com/culture/2017/10/9/16433088/blade-runner-2049-spoilers-review)
+[Informatie over de kleur turquoise](https://www.color-meanings.com/turquoise-color-meaning-the-color-turquoise/)
