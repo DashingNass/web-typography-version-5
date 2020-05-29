@@ -208,7 +208,12 @@ Maar als designer is het mijn taak om een de sfeer en emotie over te brengen naa
 YES SIR I AM FINISHED!
 
 # URL van de video
+De directe naar de video kun je hier vinden. Let wel op, deze pagina wordt in het huidge venster geopend<br/>
 [URL naar de video](https://dashingnass.github.io/web-typography-version-5/)
+
+## Screencast
+Mocht het zo zijn dat je op een of andere manier de video **niet** kunt bekijken in de browser, voel je vrij om de video te bekijken op loom in de vorm van een screencast, zie de link hieronder<br/>
+[URL van de screencast](https://www.loom.com/share/de0eb66750f940c6bc2c913a49f07c2b)
 
 #### Bijlage 
 
