@@ -216,5 +216,7 @@ Officer K is een replicante  Nexus 9 politieagent die werkzaam is voor de LAPD (
 # Bronnen
 Deze bronnen zijn geraadpleegd op 29 mei 2020 om 03:35 AM
 [Gebruik over italic font](https://www.wnwdigital.co.uk/blog/techniques/italics-when-you-should-use-them/)
+<br/>
 [Info over Officer K](https://www.vox.com/culture/2017/10/9/16433088/blade-runner-2049-spoilers-review)
+<br/>
 [Informatie over de kleur turquoise](https://www.color-meanings.com/turquoise-color-meaning-the-color-turquoise/)
