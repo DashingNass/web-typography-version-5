@@ -3,11 +3,13 @@
 # Opdracht
 De opdracht van dit project houdt in dat ik door middel van closed captions de geluiden en teksten (close captions) van twee fragmenten van de film *Blade Runner 2049* visualiseer.
 
-Kortom, hierbij komt de grote vraag: “Hoe laten we de geluiden overkomen op dove mensen en hoe weergeven wij deze vormen van de geluiden? Hoe kun je de algehele experience van deze stakeholder meer laten genieten van deze video?
+Kortom, hierbij komt de grote vraag:
+<br/>“Hoe laten we de geluiden overkomen op dove mensen en hoe weergeven wij deze vormen van de geluiden?
+<br/>Hoe kun je de algehele experience van deze stakeholder meer laten genieten van deze video?
 
 
 # Let’s meet Marie!
-Aan de hand van een kort en krachtig gesprek met Marie kwam het erop neer dat ze geluid waarneemt door trillingen. Ik heb een korte list opgesteld over haar op basis van de vragen die ik aan haar gesteld heb.
+Aan de hand van een kort en krachtig gesprek met Marie kwam het erop neer dat ze geluid waarneemt door trillingen.<br/> Ik heb een korte list opgesteld over haar op basis van de vragen die ik aan haar gesteld heb.
 * Hoort geen conversaties tussen mensen omdat ze doof is.
 * Kan geluiden voelen door vibraties van het geluid.
 * Heeft de film Blade Runner helemaal gezien.
@@ -215,6 +217,7 @@ Officer K is een replicante  Nexus 9 politieagent die werkzaam is voor de LAPD (
 
 # Bronnen
 Deze bronnen zijn geraadpleegd op 29 mei 2020 om 03:35 AM
+<br/>
 [Gebruik over italic font](https://www.wnwdigital.co.uk/blog/techniques/italics-when-you-should-use-them/)
 <br/>
 [Info over Officer K](https://www.vox.com/culture/2017/10/9/16433088/blade-runner-2049-spoilers-review)
