@@ -184,7 +184,7 @@ Omdat ik in de eerste feedback niet veel had om te tonen ga ik hier niet inhoude
 De situatie waarin deze opdracht plaatsvond was vrijwel nieuw en spannend voor mij. Om de situatie van Marie beter te kunnen begrijpen heb ik het fragment een aantal keer zonder geluid bekeken waarop ik besefte dat het echt lastig is als je niks hoort wegens een beperking. De gesprekken van Marie zijn een echte eye-opener geweest waardoor je zo doende veel informatie kunt winnen en exact kan ontwerpen specifiek voor haar.
 
 ## Be consistent / ignore conventions
-Omdat Marie in een doelgroep valt voor mensen met een beperking is zij niet in staat om te begrijpen hoe bepaalde geluiden en of conversaties kan waarnemen. Zoals ik al eerder aangaf Marie kan geen geluiden horen maar wel de geluiden ervaren in trillingen.
+Omdat Marie in een doelgroep valt voor mensen met een beperking is zij niet in staat om te begrijpen hoe bepaalde geluiden en of conversaties kan waarnemen. Zoals ik al eerder aangaf Marie kan geen geluiden horen maar wel de geluiden ervaren in trillingen. Door middel van trillingen toe te passen bij bepaalde geluid(en) kan ik op deze manier de ervaring dus zodanig levendiger voor haar maken
 
 ## Be consistent / Prioritese identity
 Door de consistentie van de video te behouden heb ik ervoor gekozen om de teksten van de interviewer aan de linkerkant van beeld te plaatsen en de teksten van Officer K rechts in beeld als er gesproken wordt. Door deze consistentie te behouden is het ook gemakkelijker om te volgen en niet rommelig oogt. 
